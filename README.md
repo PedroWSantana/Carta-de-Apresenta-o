@@ -43,7 +43,7 @@ Sou uma pessoa em transição e construção de carreira na área de tecnologia,
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-william-santana-71b9ba2b1/)  
-[📧 E-mail](pedrowilliamsantana05@gmail.com)
+[📧 E-mail](mailto:pedrowilliamsantana05@gmail.com)
 
 ---
 
