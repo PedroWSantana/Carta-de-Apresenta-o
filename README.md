@@ -10,6 +10,7 @@ Sou uma pessoa em transição e construção de carreira na área de tecnologia,
 - Git e GitHub
 - Python (iniciando)
 - Sistemas e processos administrativos
+- Linguagem SQL e sistemas gerenciadores de banco de dados
 
 ---
 
